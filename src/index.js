@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+root.render( // It means app chya components la ithe render kara ani tyaqchya content la "root" id  maddhe gheun java.
   <React.StrictMode>
     <App />
   </React.StrictMode>
